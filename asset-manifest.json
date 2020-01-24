@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/yhgong/static/js/main.4b7dcdc2.chunk.js",
-    "main.js.map": "/yhgong/static/js/main.4b7dcdc2.chunk.js.map",
+    "main.js": "/yhgong/static/js/main.4b94b782.chunk.js",
+    "main.js.map": "/yhgong/static/js/main.4b94b782.chunk.js.map",
     "runtime-main.js": "/yhgong/static/js/runtime-main.ec3d4ec0.js",
     "runtime-main.js.map": "/yhgong/static/js/runtime-main.ec3d4ec0.js.map",
-    "static/js/2.7f9b6fd9.chunk.js": "/yhgong/static/js/2.7f9b6fd9.chunk.js",
-    "static/js/2.7f9b6fd9.chunk.js.map": "/yhgong/static/js/2.7f9b6fd9.chunk.js.map",
+    "static/js/2.aa970b11.chunk.js": "/yhgong/static/js/2.aa970b11.chunk.js",
+    "static/js/2.aa970b11.chunk.js.map": "/yhgong/static/js/2.aa970b11.chunk.js.map",
     "index.html": "/yhgong/index.html",
-    "precache-manifest.05e1ee35689256aa2eab22bdfe59604c.js": "/yhgong/precache-manifest.05e1ee35689256aa2eab22bdfe59604c.js",
+    "precache-manifest.3d335db4ca1ed87f79ef283fad33d46c.js": "/yhgong/precache-manifest.3d335db4ca1ed87f79ef283fad33d46c.js",
     "service-worker.js": "/yhgong/service-worker.js",
-    "static/js/2.7f9b6fd9.chunk.js.LICENSE": "/yhgong/static/js/2.7f9b6fd9.chunk.js.LICENSE",
+    "static/js/2.aa970b11.chunk.js.LICENSE": "/yhgong/static/js/2.aa970b11.chunk.js.LICENSE",
     "static/media/contact-mobile.jpg": "/yhgong/static/media/contact-mobile.6e1cf0ed.jpg",
     "static/media/contact.jpg": "/yhgong/static/media/contact.9792880c.jpg",
     "static/media/edu-mobile.jpg": "/yhgong/static/media/edu-mobile.faa2daff.jpg",
@@ -24,7 +24,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec3d4ec0.js",
-    "static/js/2.7f9b6fd9.chunk.js",
-    "static/js/main.4b7dcdc2.chunk.js"
+    "static/js/2.aa970b11.chunk.js",
+    "static/js/main.4b94b782.chunk.js"
   ]
 }
