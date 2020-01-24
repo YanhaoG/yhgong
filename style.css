@@ -109,7 +109,7 @@ div#work > .container {
   text-align: left;
   font-weight: 800;
   font-size: calc(15px + 0.8vw);
-  margin: 1% 40% 0 10%;
+  margin: 5% 40% 0 10%;
 }
 
 #work p.job-detail {
@@ -209,4 +209,7 @@ footer h6 {
 }
 
 @media (max-width: 650px) {
+  #contactme div.margin {
+    margin-top: 30%;
+  }
 }
