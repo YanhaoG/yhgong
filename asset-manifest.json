@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/yhgong/static/js/main.bbfd26a0.chunk.js",
+    "main.js.map": "/yhgong/static/js/main.bbfd26a0.chunk.js.map",
+    "runtime-main.js": "/yhgong/static/js/runtime-main.ec3d4ec0.js",
+    "runtime-main.js.map": "/yhgong/static/js/runtime-main.ec3d4ec0.js.map",
+    "static/js/2.aa970b11.chunk.js": "/yhgong/static/js/2.aa970b11.chunk.js",
+    "static/js/2.aa970b11.chunk.js.map": "/yhgong/static/js/2.aa970b11.chunk.js.map",
+    "index.html": "/yhgong/index.html",
+    "precache-manifest.717dd5b46986b89f084ee43eb8467946.js": "/yhgong/precache-manifest.717dd5b46986b89f084ee43eb8467946.js",
+    "service-worker.js": "/yhgong/service-worker.js",
+    "static/js/2.aa970b11.chunk.js.LICENSE": "/yhgong/static/js/2.aa970b11.chunk.js.LICENSE",
+    "static/media/contact-mobile.jpg": "/yhgong/static/media/contact-mobile.6e1cf0ed.jpg",
+    "static/media/contact.jpg": "/yhgong/static/media/contact.9792880c.jpg",
+    "static/media/edu-mobile.jpg": "/yhgong/static/media/edu-mobile.faa2daff.jpg",
+    "static/media/edu.jpg": "/yhgong/static/media/edu.1fc8f612.jpg",
+    "static/media/me-mobile.jpg": "/yhgong/static/media/me-mobile.3bdf1a3e.jpg",
+    "static/media/me.jpg": "/yhgong/static/media/me.ffb70c88.jpg",
+    "static/media/projects-mobile.jpg": "/yhgong/static/media/projects-mobile.ce6fa712.jpg",
+    "static/media/projects.jpg": "/yhgong/static/media/projects.2fe898cb.jpg",
+    "static/media/self-mobile.jpg": "/yhgong/static/media/self-mobile.9150f688.jpg",
+    "static/media/self.jpg": "/yhgong/static/media/self.87779671.jpg",
+    "static/media/work.jpg": "/yhgong/static/media/work.d9a80570.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec3d4ec0.js",
+    "static/js/2.aa970b11.chunk.js",
+    "static/js/main.bbfd26a0.chunk.js"
+  ]
+}
