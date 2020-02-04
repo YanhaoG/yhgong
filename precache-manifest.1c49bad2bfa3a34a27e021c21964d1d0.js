@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8408e4fd13723123d7b5a8e7211884b8",
+    "revision": "5c61f2740e8db6a4da82d278bae1380b",
     "url": "/yhgong/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yhgong/static/js/2.7f9b6fd9.chunk.js.LICENSE"
   },
   {
-    "revision": "67b41c49564b19be111f",
-    "url": "/yhgong/static/js/main.2b84c4b3.chunk.js"
+    "revision": "81103439e0c158ebb228",
+    "url": "/yhgong/static/js/main.7aa288dd.chunk.js"
   },
   {
     "revision": "0ce181833d342edd589c",
