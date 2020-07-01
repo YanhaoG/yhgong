@@ -59,10 +59,10 @@ function Work() {
 
                     <div className="row margin">
                         <div className="col-lg col-style">
-                            <pre className="tab">PostgreSQL   ★★★</pre>
+                            <pre className="tab">SQL          ★★★</pre>
                         </div>
                         <div className="col-lg col-style">
-                            <pre className="tab">MongoDB      ★★</pre>
+                            <pre className="tab">REST-API     ★★</pre>
                         </div>
                     </div>
                 </div>
