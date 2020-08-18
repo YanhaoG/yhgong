@@ -35,7 +35,7 @@ function Work() {
                             <pre className="tab">MATLAB       ★★★★</pre>
                         </div>
                         <div className="col-lg col-style">
-                            <pre className="tab">C++          ★★★</pre>
+                            <pre className="tab">C++          ★★★★</pre>
                         </div>
                     </div>
 

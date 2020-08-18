@@ -1,7 +1,7 @@
 // me
 export const myName = "I'm Yanhao Gong";
 export const intro =
-  'Currently a master student in Electrical Engineering at McGill University and actively seeking for a full-time job in Software area.';
+  'Recently graduated master student in Electrical Engineering at McGill University and actively seeking for a full-time job in Software area.';
 
 // education
 export const schoolName = 'McGill University';
@@ -17,16 +17,16 @@ export const jobDetail =
 
 //projects
 export const projectName = [
-  'Circuit Uncertainty Quantification',
+  'Drawing Fractal Images',
   'API Design with Flask&SQLAlchemy',
-  'Task Manager App',
-  'Simple Web Budget Application',
+  'Task Manager App API Design',
+  'Web Budget Application',
   'Google Quick Draw Images Classification',
   'Ultrawide-Band CMOS Low-Moise Amplifier',
 ];
 
 export const projectDetail = [
-  'This is my master thesis. I constructed the transient stochastic collocation method in MATLAB with polynomial chaos and sensitivity analysis invoved, with which, circuit equations can be solved in a decoupled manner and time complexity of modelling paramters variability is 10 times less than Monte Carlo algorithm and 4 times less than existing collocation method, but same accuracy achieved.',
+  'I developed the C++ program for generating fractal images from scratch. The functionality of the program is realized by creating a bitmap files class, a zoom class and an RGB class. The bitmap class provides functions for file i/o and setting pixels based on customized Mandelbrot set invloving color transformation using histogram. The zoom class defines functions for centering and scaling the image. The RGB class is used to define the color ranges.',
 
   'Developed a API with Python Flask and SQLAlchemy, which supports the sign in and sign up option with authentication functionality. This project aims to provide a api that allows users to add store/items and retrieve information from database.',
 
