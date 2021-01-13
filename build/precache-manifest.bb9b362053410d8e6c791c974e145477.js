@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70fc59f77ba01b2544664a2eee56fdfe",
+    "revision": "18e10b2fab7e9c0be2cbb59809c06539",
     "url": "/yhgong/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yhgong/static/js/2.7f9b6fd9.chunk.js.LICENSE"
   },
   {
-    "revision": "b1afc246f48acea65711",
-    "url": "/yhgong/static/js/main.32f280ae.chunk.js"
+    "revision": "e76c51533d194cda3bb1",
+    "url": "/yhgong/static/js/main.5c7ef2df.chunk.js"
   },
   {
     "revision": "0ce181833d342edd589c",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yhgong/static/media/projects.2fe898cb.jpg"
   },
   {
-    "revision": "9150f688b641e72be94ec88db6b32531",
-    "url": "/yhgong/static/media/self-mobile.9150f688.jpg"
+    "revision": "df18340b4b29b0c83a398aaa38f9d11b",
+    "url": "/yhgong/static/media/self.df18340b.jpg"
   },
   {
-    "revision": "b1af19176e9f8d2875acaed4e3b2413e",
-    "url": "/yhgong/static/media/selfies.b1af1917.jpg"
+    "revision": "f739350453539b1f08f569574dc9a160",
+    "url": "/yhgong/static/media/self_mobile.f7393504.jpg"
   },
   {
     "revision": "d9a80570b1a9289fbc094768e2b8e7d2",
