@@ -11,8 +11,11 @@ export const eduIntro2 = 'Bachelor of Eng. Electrical Engineering.';
 export const Date2 = 'Attending from Sep 2013 to Dec 2017';
 
 // work
-export const jobTitle = 'Product Engineer Internship';
-export const jobDetail =
+export const jobTitle1 = 'R&D Software Developer-Full Time';
+export const jobDetail1 =
+  'I worked as a R&D Software Developer in Xpeedic located at Shanghai, China starting from Oct 2020. I am responsiable for developing GUI of RF circuits simulation tool using QT and C++, as well as algorithm development for supporting accurate simulation.';
+export const jobTitle2 = 'Product Engineer Internship';
+export const jobDetail2 =
   'I worked as a product engineer in Cadence Design System located at Shanghai, China from Jan 7th to July 5th in 2019. During that period, I built up multiple deep learning models using TensorFlow to focus on solving timing correlation problem between synthesis and posting routing steps, which are the two main stages of digital verification. The goal is to give the prediction of static timing analysis results after routing with timing data from GENUS(Front end Cadence EDA Tool) synthesis. Moreover, I participated in modifying the Tcl scripts of 5nm-level chip design, e.g. adding scripts parts for power and routing, fixing congestion and violations occured during implementation of unit case with INNOVUS (Back end Cadence EDA Tool).';
 
 //projects

@@ -5,6 +5,7 @@ import * as resize from "./Resize.js";
 import * as info from "./Info.js";
 import Footer from "./Footer";
 import Navbar from "./NavBar";
+import Hr from "./Hr";
 
 
 function Work() {
@@ -17,8 +18,14 @@ function Work() {
             <div className="main" id="work" style={{ backgroundImage: `url(${imageUrl})` }}>
                 <div className="container">
                     <div className="hover">
-                        <h2 className="job">{info.jobTitle}</h2>
-                        <p className="job-detail">{info.jobDetail}</p>
+                        <h2 className="job">{info.jobTitle1}</h2>
+                        <p className="job-detail">{info.jobDetail1}</p>
+                        <h2 className="skill">Skills</h2>
+                    </div>
+                    <Hr />
+                    <div className="hover">
+                        <h2 className="job">{info.jobTitle2}</h2>
+                        <p className="job-detail">{info.jobDetail2}</p>
                         <h2 className="skill">Skills</h2>
                     </div>
                     <div className="row margin first">

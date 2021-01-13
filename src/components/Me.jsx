@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../assets/self.jpg";
+import avatar from "../assets/selfies.jpg";
 import avatarMobile from "../assets/self-mobile.jpg";
 import me from "../assets/me.jpg";
 import meMobile from "../assets/me-mobile.jpg";
