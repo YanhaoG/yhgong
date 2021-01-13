@@ -16,10 +16,11 @@ function Work() {
         <div><Navbar />
             <div className="main" id="work" style={{ backgroundImage: `url(${imageUrl})` }}>
                 <div className="container">
-                    <h2 className="job">{info.jobTitle}</h2>
-                    <p className="job-detail">{info.jobDetail}</p>
-                    <h2 className="skill">Skills</h2>
-
+                    <div className="hover">
+                        <h2 className="job">{info.jobTitle}</h2>
+                        <p className="job-detail">{info.jobDetail}</p>
+                        <h2 className="skill">Skills</h2>
+                    </div>
                     <div className="row margin first">
                         {/* ★★★★ */}
                         <div className="col-lg col-style">

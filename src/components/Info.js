@@ -1,7 +1,7 @@
 // me
 export const myName = "I'm Yanhao Gong";
 export const intro =
-  'Recently graduated master student in Electrical Engineering at McGill University and actively seeking for a full-time job in Software area.';
+  'Master student majored in Electrical Engineering at McGill University and actively seeking for a full-time job in Software area.';
 
 // education
 export const schoolName = 'McGill University';
