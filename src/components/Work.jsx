@@ -19,7 +19,6 @@ function Work() {
                     <div className="hover">
                         <h2 className="job">{info.jobTitle1}</h2>
                         <p className="job-detail">{info.jobDetail1}</p>
-                        <h2 className="skill">Skills</h2>
                     </div>
                     <div className="hover">
                         <h2 className="job">{info.jobTitle2}</h2>
